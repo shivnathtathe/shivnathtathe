@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+<img align="center"  width="4000" height="200" src="https://drive.google.com/file/d/1VBrWkuRDB-CaQH_O8Zp8nV2EN2928vbv/view?usp=share_link">
 <h1 align="center">Hi 👋, I'm Shivnath Tathe</h1>
 <h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761171cec9c7f051a76bbbf0a9b69bdf99583a02f909&rid=giphy.gif&ct=g">
