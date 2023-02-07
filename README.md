@@ -1,4 +1,3 @@
-<img align="center"  width="4000" height="200" src="https://drive.google.com/file/d/1VBrWkuRDB-CaQH_O8Zp8nV2EN2928vbv/view?usp=share_link">
 <h1 align="center">Hi 👋, I'm Shivnath Tathe</h1>
 <h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761171cec9c7f051a76bbbf0a9b69bdf99583a02f909&rid=giphy.gif&ct=g">
