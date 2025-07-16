@@ -1,37 +1,94 @@
+""""
 <h1 align="center">Hi 👋, I'm Shivnath Tathe</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">Building the Future of Efficient AI | Low-bit Training • On-device LLMs • AI for Everyone</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761171cec9c7f051a76bbbf0a9b69bdf99583a02f909&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivnathtathe&label=Profile%20views&color=0e75b6&style=flat" alt="shivnathtathe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shiv_tathe" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_tathe?logo=twitter&style=for-the-badge" alt="shiv_tathe" /></a> </p>
+---
 
-- 🔭 I’m currently working on **AI / ML projects.**
+### 🧠 What I Do
 
-- 📝 I write articles on [https://www.blogger.com/blog/post/edit/6014827056473062839/2970100808626076239](https://www.blogger.com/blog/post/edit/6014827056473062839/2970100808626076239)
+- 🧩 **True 4-bit Neural Network Architectures**  
+  Trained SimpleResNet4bit & VGG4bit _from scratch_ using STE on CPU, achieving 86%+ accuracy on CIFAR-10 with <1MB memory.
 
-- 💬 Ask me about **Cyber Security, Ethical Hacking.**
+- 📱 **Offline RAG for Mobile & Embedded**  
+  Fully offline GGUF-powered RAG app (React Native) with native integration of `llama.cpp` + local vector store.
 
-- 📫 How to reach me **sptathe2001@gmail.com**
+- 🧪 **Open Researcher**  
+  I openly share models, experiments, and architectures via [arXiv](https://arxiv.org), [Zenodo](https://zenodo.org), and GitHub.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/138eLYc0Ll0W6bsKc2zuO393LhIDIG95m/view?usp=share_link](https://drive.google.com/file/d/138eLYc0Ll0W6bsKc2zuO393LhIDIG95m/view?usp=share_link)
+- 🛠 **Tool-Building Agents**  
+  Researching autonomous agent architectures that create tools using LangChain, CrewAI, and low-level orchestration.
 
-- ⚡ Fun fact **I Thil]\**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Projects
+
+- 🔬 [**True 4-bit Quantized Networks**](https://github.com/shivnathtathe/true-4bit-training)  
+  → World's smallest VGG achieving 88.43% on CIFAR-10 using symmetric quant + STE — trained on dual-core CPU.
+
+- 📱 [**DevShakti Offline RAG App**](https://github.com/shivnathtathe/DevShakti-APK)  
+  → React Native + GGUF + vector search, fully offline chatbot, 100% on-device LLM inferencing.
+
+- 🔗 [**AI Agents for Tool Creation**](https://github.com/shivnathtathe/autonomous-tool-creator)  
+  → An open-source project building LangChain/CrewAI-based agents that build their own Python tools.
+
+---
+
+### 🧰 Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/shiv_tathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_tathe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivnath-tathe-919985233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivnath-tathe-919985233" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ShivTathe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ShivTathe" /></a></p><br><br>
+### 📚 Publications & Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivnathtathe&show_icons=true&locale=en&layout=compact" alt="shivnathtathe" /></p>
+- 📄 **arXiv Draft**: _"True 4-bit Quantization of Deep Neural Networks Trained from Scratch"_  
+- 💾 **Zenodo**: https://zenodo.org/record/1234567 (coming soon)  
+- 🧪 Releasing all experiments: training logs, inference demos, and visualization notebooks.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivnathtathe&show_icons=true&locale=en" alt="shivnathtathe" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathtathe&" alt="shivnathtathe" /></p>
+### 📬 Contact Me
+
+- 📧 Email: sptathe2001@gmail.com  
+- 🐦 Twitter: [@shiv_tathe](https://twitter.com/shiv_tathe)  
+- 💼 LinkedIn: [Shivnath Tathe](https://linkedin.com/in/shivnath-tathe-919985233)  
+- ☕ Support: [Buy Me a Coffee](https://www.buymeacoffee.com/ShivTathe)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivnathtathe&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivnathtathe&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathtathe" alt="Streak Stats" />
+</p>
+
+---
+
+### 🔖 Fun Fact
+
+> "I trained a neural network on a dual-core CPU while the world chased TPUs."
+
+---  
+© 2025 Shivnath Tathe. All Rights Reserved.
+""""
