@@ -1,4 +1,3 @@
-""""
 <h1 align="center">Hi 👋, I'm Shivnath Tathe</h1>
 <h3 align="center">Building the Future of Efficient AI | Low-bit Training • On-device LLMs • AI for Everyone</h3>
 
@@ -91,4 +90,3 @@
 
 ---  
 © 2025 Shivnath Tathe. All Rights Reserved.
-""""
