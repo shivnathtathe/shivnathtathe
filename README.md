@@ -1,92 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shivnath Tathe</h1>
-<h3 align="center">Building the Future of Efficient AI | Low-bit Training • On-device LLMs • AI for Everyone</h3>
+<h1 align="center">Shivnath Tathe</h1>
+<h3 align="center">Independent AI Researcher | 4-bit Neural Networks | Training LLMs from Scratch</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761171cec9c7f051a76bbbf0a9b69bdf99583a02f909&rid=giphy.gif&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivnathtathe&label=Profile%20views&color=0e75b6&style=flat" alt="shivnathtathe" /> </p>
-
----
-
-### 🧠 What I Do
-
-- 🧩 **True 4-bit Neural Network Architectures**  
-  Trained SimpleResNet4bit & VGG4bit _from scratch_ using STE on CPU, achieving 86%+ accuracy on CIFAR-10 with <1MB memory.
-
-- 📱 **Offline RAG for Mobile & Embedded**  
-  Fully offline GGUF-powered RAG app (React Native) with native integration of `llama.cpp` + local vector store.
-
-- 🧪 **Open Researcher**  
-  I openly share models, experiments, and architectures via [arXiv](https://arxiv.org), [Zenodo](https://zenodo.org), and GitHub.
-
-- 🛠 **Tool-Building Agents**  
-  Researching autonomous agent architectures that create tools using LangChain, CrewAI, and low-level orchestration.
-
----
-
-### 🚀 Projects
-
-- 🔬 [**True 4-bit Quantized Networks**](https://github.com/shivnathtathe/true-4bit-training)  
-  → World's smallest VGG achieving 88.43% on CIFAR-10 using symmetric quant + STE — trained on dual-core CPU.
-
-- 📱 [**DevShakti Offline RAG App**](https://github.com/shivnathtathe/DevShakti-APK)  
-  → React Native + GGUF + vector search, fully offline chatbot, 100% on-device LLM inferencing.
-
-- 🔗 [**AI Agents for Tool Creation**](https://github.com/shivnathtathe/autonomous-tool-creator)  
-  → An open-source project building LangChain/CrewAI-based agents that build their own Python tools.
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.13931">arXiv</a> •
+  <a href="https://zenodo.org/records/15272894">Zenodo</a> •
+  <a href="https://linkedin.com/in/shivnath-tathe-919985233">LinkedIn</a> •
+  <a href="https://huggingface.co/shivnathtathe">HuggingFace</a>
 </p>
 
 ---
 
-### 📚 Publications & Code
+### About
 
-- 📄 **arXiv Draft**: _"True 4-bit Quantization of Deep Neural Networks Trained from Scratch"_  
-- 💾 **Zenodo**: https://zenodo.org/record/1234567 (coming soon)  
-- 🧪 Releasing all experiments: training logs, inference demos, and visualization notebooks.
+I'm Shivnath Tathe, a Software Engineer at ISG eSolutions and an independent AI researcher from India. I work on training neural networks at extremely low precision, proving that 4-bit quantized models can match full-precision accuracy without expensive GPUs.
 
----
+My first paper on arXiv demonstrates training a convolutional network from scratch at true 4-bit precision on a standard CPU, achieving 92.34% on CIFAR-10 with 8x memory compression. I'm currently building T4NT, a 1.5B parameter multilingual Indian language model trained from scratch on 10 languages using 4-bit quantization-aware training with tanh soft clipping.
 
-### 📬 Contact Me
-
-- 📧 Email: sptathe2001@gmail.com  
-- 🐦 Twitter: [@shiv_tathe](https://twitter.com/shiv_tathe)  
-- 💼 LinkedIn: [Shivnath Tathe](https://linkedin.com/in/shivnath-tathe-919985233)  
-- ☕ Support: [Buy Me a Coffee](https://www.buymeacoffee.com/ShivTathe)
+I believe powerful AI should not require powerful hardware.
 
 ---
 
-### 📊 GitHub Stats
+### Publications
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivnathtathe&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+| Paper | Venue | Links |
+|-------|-------|-------|
+| True 4-Bit Quantized Convolutional Neural Network Training on CPU: Achieving Full-Precision Parity | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.13931) · [Code](https://github.com/shivnathtathe/true-4bit-training) |
+| Autonomous Tool-Creation in AI Agents: A Conceptual Framework for Self-Evolving Systems | Zenodo | [Paper](https://zenodo.org/records/15272894) · [Code](https://github.com/shivnathtathe/AgentForge) |
+
+---
+
+### Research
+
+**4-bit Quantization-Aware Training**
+- Trained VGG-style networks at true 4-bit precision from scratch using symmetric quantization + straight-through estimators
+- 92.34% on CIFAR-10 (0.16% gap from full-precision) with 8x memory compression
+- Validated on CIFAR-100 (70.94%) and on mobile (OnePlus 9R, 83.16% in 6 epochs)
+- No specialized GPU kernels. Standard PyTorch on CPU.
+
+**T4NT-1.5B** *(in progress)*
+- Multilingual Indian LLM trained from scratch on 10 languages
+- Architecture: RMSNorm + RoPE + SwiGLU + 4-bit QAT + Tanh Soft Clipping
+- Custom SentencePiece tokenizer (65K vocab) covering Devanagari, Bengali, Tamil, Telugu, Kannada, Malayalam, Gurmukhi scripts
+- Training on Kaggle TPU v5e-8
+
+---
+
+### Projects
+
+| Project | Description |
+|---------|-------------|
+| [true-4bit-training](https://github.com/shivnathtathe/true-4bit-training) | 4-bit QAT with tanh soft clipping — arXiv published |
+| [DevShakti Offline RAG](https://github.com/shivnathtathe/DevShakti-APK) | React Native + GGUF, fully offline on-device LLM chatbot |
+| [AgentForge](https://github.com/shivnathtathe/AgentForge) | LangChain/CrewAI agents that build their own tools |
+
+---
+
+### Tech
+
+    Research : PyTorch, Quantization, QAT, STE, LoRA, PEFT
+    Models   : llama.cpp, GGUF, HuggingFace Transformers
+    Frontend : React Native, Angular, Electron
+    Backend  : FastAPI, Node.js
+    Infra    : Kaggle TPU, Google Colab, Linux
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivnathtathe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivnathtathe&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathtathe" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivnathtathe&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🔖 Fun Fact
-
-> "I trained a neural network on a dual-core CPU while the world chased TPUs."
-
----  
-© 2025 Shivnath Tathe. All Rights Reserved.
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.13931">arXiv:2603.13931</a> · 
+  <a href="https://doi.org/10.5281/zenodo.15272894">DOI:10.5281/zenodo.15272894</a>
+</p>
