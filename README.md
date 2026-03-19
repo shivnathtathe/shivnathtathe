@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2603.13931">arXiv</a> •
   <a href="https://zenodo.org/records/15272894">Zenodo</a> •
+  <a href="https://scholar.google.com/citations?user=8E2rsVoAAAAJ">Google Scholar</a> •
   <a href="https://linkedin.com/in/shivnath-tathe-919985233">LinkedIn</a> •
   <a href="https://huggingface.co/shivnathtathe">HuggingFace</a>
 </p>
