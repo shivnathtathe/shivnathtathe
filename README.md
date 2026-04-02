@@ -1,6 +1,5 @@
 <h1 align="center">Shivnath Tathe</h1>
 <h3 align="center">Independent AI Researcher | 4-bit Neural Networks | Training LLMs from Scratch</h3>
-<!-- Structured Data: Person -->
   <script type="application/ld+json">
   {
   "@context": "https://schema.org",
