@@ -5,6 +5,7 @@
   <a href="https://zenodo.org/records/15272894">Zenodo</a> •
   <a href="https://scholar.google.com/citations?user=8E2rsVoAAAAJ">Google Scholar</a> •
   <a href="https://linkedin.com/in/shivnath-tathe-919985233">LinkedIn</a> •
+  <a href="https://orcid.org/0009-0007-7142-1119">ORCID</a> •
   <a href="https://huggingface.co/shivnathtathe">HuggingFace</a>
 </p>
 
@@ -24,7 +25,7 @@ I believe powerful AI should not require powerful hardware.
 
 | Paper | Venue | Links | Year |
 |------|------|---------|------|
-| LACE: Loss-Adaptive Capacity Expansion for Continual Learning | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.13931) | 2026 |
+| LACE: Loss-Adaptive Capacity Expansion for Continual Learning | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.28611) · [Code] | 2026 |
 | True 4-Bit Quantized Convolutional Neural Network Training on CPU: Achieving Full-Precision Parity | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.13931) · [Code](https://github.com/shivnathtathe/true-4bit-training) | 2026 |
 | Autonomous Tool-Creation in AI Agents: A Conceptual Framework for Self-Evolving Systems | Zenodo | [Paper](https://zenodo.org/records/15272894) · [Code](https://github.com/shivnathtathe/AgentForge) | 2025 |
 
