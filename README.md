@@ -25,7 +25,7 @@ I believe powerful AI should not require powerful hardware.
 
 | Paper | Venue | Links | Year |
 |------|------|---------|------|
-| LACE: Loss-Adaptive Capacity Expansion for Continual Learning | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.28611) · [Code] | 2026 |
+| LACE: Loss-Adaptive Capacity Expansion for Continual Learning | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.28611) · [Code](https://github.com/shivnathtathe/shivnathtathe) | 2026 |
 | True 4-Bit Quantized Convolutional Neural Network Training on CPU: Achieving Full-Precision Parity | arXiv (cs.LG) | [Paper](https://arxiv.org/abs/2603.13931) · [Code](https://github.com/shivnathtathe/true-4bit-training) | 2026 |
 | Autonomous Tool-Creation in AI Agents: A Conceptual Framework for Self-Evolving Systems | Zenodo | [Paper](https://zenodo.org/records/15272894) · [Code](https://github.com/shivnathtathe/AgentForge) | 2025 |
 
