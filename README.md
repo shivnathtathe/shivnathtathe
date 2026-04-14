@@ -1,5 +1,5 @@
 <h1 align="center">Shivnath Tathe</h1>
-<h3 align="center">Independent AI Researcher | 4-bit Neural Networks | Training LLMs from Scratch</h3>
+<h3 align="center">Software Engineer | Independent AI Researcher | 4-bit Neural Networks | Training LLMs from Scratch</h3>
 <p align="center">
   <a href="https://arxiv.org/abs/2603.13931">arXiv</a> •
   <a href="https://zenodo.org/records/15272894">Zenodo</a> •
