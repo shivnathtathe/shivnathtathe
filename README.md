@@ -13,7 +13,7 @@
 
 ### About
 
-I'm Shivnath Tathe, a Software Engineer at ISG eSolutions and an independent AI researcher from India. I work on training neural networks at extremely low precision, proving that 4-bit quantized models can match full-precision accuracy without expensive GPUs.
+I'm Shivnath Tathe, a Software Engineer and an independent AI researcher from India. I work on training neural networks at extremely low precision, proving that 4-bit quantized models can match full-precision accuracy without expensive GPUs.
 
 My first paper on arXiv demonstrates training a convolutional network from scratch at true 4-bit precision on a standard CPU, achieving 92.34% on CIFAR-10 with 8x memory compression. I'm currently building T4NT, a 1.5B parameter multilingual Indian language model trained from scratch on 10 languages using 4-bit quantization-aware training with tanh soft clipping.
 
